@@ -2,6 +2,8 @@
 
 jquery.emojiarea.js plugin is wrapped with a gem for Rails asset pipeline.
 
+https://github.com/diy/jquery-emojiarea
+
 ## Installation
 
 Add this line to your application's Gemfile:
